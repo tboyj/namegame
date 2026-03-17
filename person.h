@@ -10,7 +10,7 @@
 class person {
 private:
     std::string name;
-    bool is_teacher_;
+    bool is_teacher_; // remnant of the old project lol
 
 public:
     person(const std::string &name, bool isTeacher);
